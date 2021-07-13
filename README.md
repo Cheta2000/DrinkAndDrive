@@ -13,3 +13,9 @@ Technology used in app:
 - CoctailDB API
 - Access to camera and gallery
 - Chart, toast and other libraries
+
+![Screenshot_2021-07-13-15-58-03-219_com example drinkanddrive](https://user-images.githubusercontent.com/72553235/125465674-4a80f170-2f4a-4acb-9f24-7193e9efcc4d.jpg)
+![Screenshot_2021-07-13-15-58-22-552_com example drinkanddrive](https://user-images.githubusercontent.com/72553235/125465681-723a2452-457f-42aa-8d40-a79e2a864a84.jpg)
+![Screenshot_2021-07-13-15-58-27-820_com example drinkanddrive](https://user-images.githubusercontent.com/72553235/125465689-77f15f9a-c763-40ae-99c1-91612581ba1f.jpg)
+![Screenshot_2021-07-13-15-57-49-979_com example drinkanddrive](https://user-images.githubusercontent.com/72553235/125465690-c8eb0722-f8f8-4b1c-9e21-2a9e5039f592.jpg)
+![Screenshot_2021-07-13-15-58-13-804_com example drinkanddrive](https://user-images.githubusercontent.com/72553235/125465695-d6c24176-e8e2-4355-8dba-07e143494782.jpg)
